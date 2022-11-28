@@ -6,11 +6,15 @@
 
 ![1](https://user-images.githubusercontent.com/90495761/204229795-893a6c97-c677-47c2-90c1-6a5d10dc0a43.jpg)
 
+Посилання на скріншот - https://monosnap.com/file/6oSIYcpE8DdLM5001dbC05HAqWyOdM
+
 ## 02: Отримуємо контакт з id
 
 "node index.js --action get --id 5"
 
 ![2](https://user-images.githubusercontent.com/90495761/204230882-cb272719-97ab-4339-a3ed-e9fca987e6b4.jpg)
+
+Посилання на скріншот - https://monosnap.com/file/txTUa0nqDYQVhTS2oU21VvO7xeouhu
 
 ## 03: Додаємо контакт
 
@@ -18,10 +22,12 @@
 
 ![3](https://user-images.githubusercontent.com/90495761/204231460-be8b3f1f-330d-45f3-b1e7-722d970355ec.jpg)
 
+Посилання на скріншот - https://monosnap.com/file/BkbYYQpITJQuzR3Wa7muVkswWkQ9W0
+
 ## 04: Вилучаємо контакт
 
 "node index.js --action remove --id=3"
 
 ![4](https://user-images.githubusercontent.com/90495761/204231836-5c60ca55-0722-4527-ac2a-c045dbadbde4.jpg)
 
-
+Посилання на скріншот - https://monosnap.com/file/z2pY2wN2UWevwJpNW4pnYrYar19H7R
