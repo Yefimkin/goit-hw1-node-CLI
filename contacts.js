@@ -16,10 +16,8 @@ async function listContacts() {
 async function getContactById(contactId) {
   try {
     const data = await listContacts();
-    const contact = data.find(({ id }) => id === contactId.toString);
-    console.log(
-      `Contact with this id ${contactId} is: ${JSON.stringify(contact)}`
-    );
+    const contact = data.find(({ id }) => id === contactId.toString());
+    console.log(`Contact with id ${contactId} is: ${JSON.stringify(contact)}`);
   } catch (error) {
     console.error(error);
   }
