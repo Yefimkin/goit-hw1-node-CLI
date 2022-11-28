@@ -1,4 +1,9 @@
-const contactsOperations = require("./contacts");
+const {
+  listContacts,
+  getContactById,
+  removeContact,
+  addContact,
+} = require("./contacts");
 
 const argv = require("yargs").argv;
 

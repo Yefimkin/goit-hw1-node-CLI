@@ -48,11 +48,4 @@ async function addContact(name, email, phone) {
   }
 }
 
-const contactsOperations = {
-  listContacts,
-  getContactById,
-  removeContact,
-  addContact,
-};
-
-module.exports = contactsOperations;
+module.exports = { listContacts, getContactById, removeContact, addContact };
